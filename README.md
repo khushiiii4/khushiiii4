@@ -34,11 +34,7 @@ Computer Science Engineering student | Full-Stack Learner | Problem Solver 🚀
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🚀 Projects
-🔹 **BaitShift** – Real-time suspicious message detection (React extension + Streamlit)  
-🔹 **PeerChat** – TCP based decentralized peer-to-peer chat app  
-🔹 **Academic Success Analysis** – Student performance visualization dashboard  
+ 
 
 ---
 
