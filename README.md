@@ -37,6 +37,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -159,12 +160,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushiiii4&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Khushi's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiiii4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=khushiiii4&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Khushi's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiiii4&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="45%" />
 
 <img src="https://streak-stats.demolab.com?user=khushiiii4&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiii4&theme=redical&hide_border=true" alt="Activity Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiii4&theme=radical&hide_border=true" alt="Activity Graph" width="90%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=khushiiii4&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" width="90%" />
 
