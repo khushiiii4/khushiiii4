@@ -173,9 +173,11 @@
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/khushiiii4/khushiiii4/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 > 💡 This animation renders once you add the [Platane/snk GitHub Action](https://github.com/Platane/snk#-github-action) to a repo named exactly `khushiiii4/khushiiii4`.
 
