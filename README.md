@@ -2,7 +2,7 @@
 
 # Hi there, I'm Khushi Singh 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;DSA+%7C+System+Design+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;DSA+%7C+OOP+%7C+DBMS;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=khushiiii4&color=blueviolet&style=flat-square)](https://github.com/khushiiii4)
 [![GitHub followers](https://img.shields.io/github/followers/khushiiii4?label=Followers&style=flat-square&color=blue)](https://github.com/khushiiii4)
@@ -17,8 +17,8 @@
 - 🎓 B.E. in Computer Science & Engineering, Ramaiah Institute of Technology, Bengaluru (2023 – 2027)
 - 📊 CGPA: **8.42 / 10.0**
 - 🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks**
-- 💻 Full-Stack Developer — comfortable across **React / Redux Toolkit** frontends and **Node.js / Express.js** backends
-- 🔧 Experienced with **REST API design, JWT & OAuth authentication, MongoDB Atlas, Docker, and Terraform**
+- 💻 Full-Stack Developer — comfortable across **Node.js / Express.js** backends
+- 🔧 Experienced with **REST API design, JWT Authentication, OAuth authentication, MongoDB Atlas, and Terraform**
 - 📈 Hands-on experience in **Software Engineering practices** through real-world and internship projects
 - 🌱 Currently exploring deeper **Software Engineering, System Design, and AI-driven applications**
 - ⚡ Fun fact: I build things ranging from community tool-sharing platforms to voice-controlled 3D holographic scenes!
@@ -36,12 +36,11 @@
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -71,11 +70,11 @@
 **Key Features**
 - REST APIs for tool lifecycle and user management built with Node.js and Express.js
 - JWT authentication (httpOnly cookies) + Google OAuth via Firebase Authentication
-- Responsive React frontend with Redux Toolkit and Tailwind CSS, including search and persistent state management
+- Responsive frontend with persistent state management
 - MongoDB Atlas integration with rate limiting, security headers, and secure file upload handling
-- Containerized with Docker; cloud infrastructure provisioned using Terraform
+- Cloud infrastructure provisioned using Terraform
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB Atlas` `Docker` `Terraform` `Redux Toolkit` `Firebase` `Tailwind CSS`
+**Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `Terraform` `Redux Toolkit` `Firebase`
 
 🔗 **Repo:** [github.com/MayeraaSingh/ToolShare](https://github.com/MayeraaSingh/ToolShare)
 
