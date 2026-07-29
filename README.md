@@ -158,8 +158,7 @@
 
 - 🧩 Advanced **Data Structures & Algorithms** for competitive programming
 - 🏗 **Software Engineering** principles and scalable system design
-- ☁️ Deepening **Docker & Terraform** skills for cloud-native deployments
-- 🤖 Exploring **LLM-powered application development**
+
 
 ---
 
