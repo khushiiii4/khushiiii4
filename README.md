@@ -131,9 +131,6 @@
 **Research Program**
 - 🌟 Selected for the **Samsung PRISM Research Program (2025)**
 
-**Open Source Contributions**
-- 🌱 Actively contributing to **[HoloScript-Mini](https://github.com/holoscript-org/holoscript-mini)**, an open-source AI-driven holographic scene generation project
-
 ---
 
 ## 🏆 Achievements
